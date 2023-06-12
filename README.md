@@ -15,7 +15,7 @@ Please note that appropriate citation and acknowledgment of the dataset source a
 
 
 # BibTex
-If you want to cite our 🤗 Datasets, you can use our paper:
+If you want to cite our 🤗 Datasets, you can use our [paper](https://ieeexplore.ieee.org/abstract/document/9663440):
 
 ```bibtex
 @inproceedings{radmanesh2021control, title={Control of a Wrist Telerehabilitation System Based on Recovery Indices and Reproduction of the Periodic Tasks}, author={Radmanesh, Elahe and Sharifi, Iman and Talebi, Heidar A}, booktitle={2021 9th RSI International Conference on Robotics and Mechatronics (ICRoM)}, pages={309--315}, year={2021}, organization={IEEE} }
