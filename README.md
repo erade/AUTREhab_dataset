@@ -12,3 +12,6 @@ The dataset captures 9-dimensional kinematic data at a frequency of 50Hz, includ
 This dataset is intended to facilitate research and analysis in the field of wrist rehabilitation, providing an opportunity to explore various aspects of performance and movement patterns. Researchers, practitioners, and enthusiasts can utilize this dataset to develop and evaluate novel rehabilitation strategies, algorithms, and models.
 
 Please note that appropriate citation and acknowledgment of the dataset source are encouraged when utilizing this dataset for research or any other purpose.
+
+
+# BibTex
