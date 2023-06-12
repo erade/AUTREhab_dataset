@@ -3,7 +3,7 @@ Title: AUTREhab Dataset - Wrist Rehabilitation Dataset
 
 Description: The AUTREhab dataset is a comprehensive collection of data focused on wrist rehabilitation tasks using a Microsoft joystick. It includes two main tasks: "Circle drawing" and "CO-PTP (Center Out Point To Point)." The dataset consists of recordings from twelve subjects (indexed as "B" to "M"), with each subject performing five trials for each task, resulting in a total of 120 data files.
 
-The "Circle drawing" task involves patients drawing circles of specified radii, with parameters such as shape radius, area, smoothness, movement time, and shape completeness being important factors.
+The "Circle drawing" task involves patients drawing circles of specified radius, with parameters such as shape radius, area, smoothness, movement time, and shape completeness being important factors.
 
 In the "CO-PTP" task, patients are required to reach four target points positioned at the North, West, South, and East directions from the starting position of their hand. The dataset includes data for different movement orders, focusing on aspects such as smoothness, velocity, and completeness.
 
